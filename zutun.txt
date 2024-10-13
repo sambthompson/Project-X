@@ -466,6 +466,21 @@ release,  including all previous betas
 0.91.0.08
 --adaption of dvb-subtitle (ard/zdf at zdfvision(mc) SUP export)
 
+0.91.0.09
+--fix noisy subtitles - when not deleting previous pictures (SUP export)
+
+0.91.0.10
+--bug#71 lost pts after subpic error
+--bug#73 ac3 mode change message
+--patch#25-28 russion translation
+--patch#29 french translation
+--old czech translation version
+
+0.91.1.00
+--Renamed ReadMe(рус).txt due to charset issues on MacOS
+--Added .gitignore and made build script executable
+--Converted CP1251 & CP1252 text and html pages to UTF-8
+
 
 
 
